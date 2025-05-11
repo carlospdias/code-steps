@@ -23,6 +23,7 @@ ldap_results = ldap_conn.search_s(
 pprint.pprint(ldap_results)
 
 ```
+```text
 
 beautifulsoup4==4.13.4
 pyasn1==0.6.1
@@ -30,3 +31,4 @@ pyasn1_modules==0.4.2
 python-ldap==3.4.4
 soupsieve==2.7
 typing_extensions==4.13.2
+```
